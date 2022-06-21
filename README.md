@@ -25,3 +25,4 @@ My name is Krystian Mączeński. I am a 1st year student of Computer Science. Re
 # My test case examples
   - [Sample test cases](https://drive.google.com/drive/folders/1PRMDiKV_Qo7wZMzQaMFdA0LaTSK84dy2?usp=sharing)
   - [Test Trello Api](https://drive.google.com/file/d/1CrtgKTJ5fTI16fy97i6ZI49pUtAdBCUh/view?usp=sharing)
+  - [Simple automatic test](https://drive.google.com/file/d/1kJ659P88cGATcNUrGm3Id34cUFEr5Scy/view?usp=sharing)
